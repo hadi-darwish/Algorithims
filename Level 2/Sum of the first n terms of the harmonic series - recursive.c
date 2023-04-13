@@ -8,5 +8,5 @@
 float harm_rec(int n)
 {
 
-    return
+    return;
 }
