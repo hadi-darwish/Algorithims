@@ -21,7 +21,7 @@ float harm_rec_threshold(float s, int i)
 {
     if (1.0 / i < s)
     {
-        return 0;
+        return 0; 
     }
     else
     {
